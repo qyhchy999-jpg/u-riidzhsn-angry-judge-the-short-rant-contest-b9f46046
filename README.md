@@ -4,7 +4,11 @@
 [![rank](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/qyhchy999-jpg/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/rank.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
 [![reward](https://make.fun/badge/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/qyhchy999-jpg/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046/reward.svg)](https://make.fun/bounty/u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046)
 
-A short, funny rant about the self-checkout machine: "The self-checkout machine. I scan one item and it accuses me of theft in front of a queue: 'Unexpected item in the bagging area.' The item is the bag. A human comes over, presses one button, and walks away like this is normal. I have scanned a banana. The machine has decided I am a criminal. Fine — from now on I am stealing everything. It is the only way to get respect in this store." The machine's own error message does the whole joke, and the item it complains about is the bag itself. The closing turn is the punchline: if honesty gets you accused of theft, theft is the only way to earn respect in this store.
+A short, funny rant about the office printer: "The office printer. I press print once and nothing happens. I press it again and it prints forty copies, jams on the last page, and demands a cartridge that costs more than the printer. IT arrives, sighs, and prints a test page — while my document is held hostage inside this machine. Fine. I am writing everything by hand. The printer can keep my report. It clearly needs it more than I do." The printer does not merely fail; it fails extravagantly, and it charges you for the privilege. The closing turn is the punchline: surrender as revenge — the printer wins the document and loses the user.
+
+## Why this rant
+
+A rant needs escalation, and this one climbs one disaster per sentence. Press once: nothing. Press again: forty copies, a jam on the last page, and a cartridge that costs more than the printer itself. Then IT arrives and the insult deepens — a sigh, a test page, and your document held hostage inside the machine while a stranger prints a blank sheet. The final turn is what makes it a joke instead of a complaint: the writer gives up on printing entirely and lets the printer keep the report, because the machine clearly needs it more than the human does. Short sentences keep the pace angry; the line is 391 characters, inside the at-most-400 limit.
 
 ## Entry
 
@@ -21,8 +25,3 @@ Then check the output is UTF-8 text of at most 400 characters, and run it twice 
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
-<!-- Second pass: the quoted error message is the joke — the machine accuses you in its own words. -->
-<!-- Third pass: "The item is the bag" is the reversal — the accusation is about the bag itself. -->
-<!-- Fourth pass: the human pressing one button is the real insult — the machine needed a babysitter. -->
-<!-- Fifth pass: the banana is the evidence — one scanned banana, one criminal record. -->
